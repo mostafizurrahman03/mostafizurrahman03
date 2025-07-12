@@ -75,10 +75,13 @@ export default {
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo" />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="24" alt="php logo" />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo" />
   <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" alt="mysql logo" />
+  <img width="30" />
+
   
   <!-- Frameworks -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="24" alt="nextjs logo" />
@@ -103,7 +106,6 @@ export default {
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="24" alt="firebase logo" />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="24" alt="sass logo" />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="24" alt="tailwindcss logo" />
   <img width="30" />
