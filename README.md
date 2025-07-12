@@ -94,7 +94,7 @@ export default {
   <img width="30" />
   
   <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="24" alt="mysql logo" />
   <img width="30" />
   
   <!-- Runtime -->
@@ -104,14 +104,13 @@ export default {
   <!-- Tools -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/reactquery.svg" height="24" alt="react query logo" />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="24" alt="firebase logo" />
-  <img width="30" />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="24" alt="tailwindcss logo" />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="24" alt="bootstrap logo" />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" alt="figma logo" />
+  <img width="30" />
 </div>
 
 
