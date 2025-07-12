@@ -39,11 +39,11 @@ export default {
     languages: ["PHP", "JavaScript", "MySQL"],
     frameworks: ["Laravel", "Vue.js" "Next.js"], 
     libraries: ["React.js", "React Native", "React Query", "Redux", "React Router", "jsonwebtoken", "bcrypt.js", "Axios"], 
-    styling: ["Tailwind CSS", "Bootstrap", "SCSS", "CSS"], 
+    styling: ["Tailwind CSS", "Bootstrap", "CSS"], 
     tools: ["Vite", "ESLint", "Prettier", "Chrome DevTools", "Figma", "Postman"], 
-    specialized: ["Frontend & Backend Architecture", "JavaScript", "TypeScript", "Next.js", "React.js"], 
+    specialized: ["Frontend & Backend Architecture", "PHP","Laravel","JavaScript", "React.js", "Vue.js"], 
   },
-  interests: ["Poetry", "Novels", "Cricket","Football", "Puzzle",], 
+  interests: ["Poetry", "Novels", "Cricket","Football", "Puzzle"], 
 };
 ```
 ---------------
@@ -58,13 +58,13 @@ export default {
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/foysalahmedmin/" target="_blank">
+  <a href="https://www.linkedin.com/in/mostafizurrahman03/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-   <a href="https://foysalahmedmin.com" target="_blank">
+   <a href="https://mostafizurrahman03.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=search&label=&color=gray&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
-  <a href="https://twitter.com/foysalahmedmin" target="_blank">
+  <a href="https://twitter.com/mostafizurrahman03" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
