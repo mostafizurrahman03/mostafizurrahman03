@@ -1,5 +1,5 @@
 ## Assalamualaiqum 🏳️, I'm Md. Mostafizur Rahman.
-<img src="https://media.licdn.com/dms/image/D5616AQH1NRuauk_p1A/profile-displaybackgroundimage-shrink_200_800/0/1687695682401?e=2147483647&v=beta&t=cH8Hj3AHtyfjPjWqEXkQNQJ5AxvT9bo9XYz6tBxhQjA" style="width:100%;" />
+<img src="" style="width:100%;" />
 
 I’m a passionate Web Developer with a solid foundation in modern web technologies and a growing focus on System Solution Architecture. I enjoy crafting scalable, maintainable systems and building intuitive, user-centric interfaces. My work is driven by thoughtful design, clean code, and a collaborative mindset.
 
