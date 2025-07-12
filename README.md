@@ -6,18 +6,18 @@ I’m a passionate Web Developer with a solid foundation in modern web technolog
 I take pride in solving real-world problems with Laravel and React, and I’m constantly learning and exploring new tools to enhance the solutions I deliver. I believe in continuous growth, both personally and professionally, and love collaborating with others to build impactful digital products.
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=foysalahmedmin&theme=darkhub&margin-w=4&margin-h=8" alt="GitHub Trophy" style="object-fit: contain;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mostafizurrahman03&theme=darkhub&margin-w=4&margin-h=8" alt="GitHub Trophy" style="object-fit: contain;" />
 </div>
 <br />
 
 <div> 
-  <img src="https://komarev.com/ghpvc/?username=foysalahmedmin&label=Profile%20views&color=0e75b6&style=flat" alt="foysalahmedmin" /> 
-  <img src="https://img.shields.io/github/followers/foysalahmedmin?label=Followers&style=social" alt="foysalahmedmin followers"/>
-  <img src="https://img.shields.io/github/stars/foysalahmedmin?label=Stars&style=social" alt="foysalahmedmin stars"/> 
+  <img src="https://komarev.com/ghpvc/?username=mostafizurrahman03&label=Profile%20views&color=0e75b6&style=flat" alt="mostafizurrahman03" /> 
+  <img src="https://img.shields.io/github/followers/mostafizurrahman03?label=Followers&style=social" alt="mostafizurrahman03 followers"/>
+  <img src="https://img.shields.io/github/stars/mostafizurrahman03?label=Stars&style=social" alt="mostafizurrahman03 stars"/> 
 </div>
 
 - 👨🏻‍💻 **About Me** ✨ Web Developer
-- 🔭 I’m currently working on [FIFOTech](https://fifo-tech.com/)
+- 🔭 I’m currently working on [WeTechHubTech](https://wetechhub.com/)
 - 📫 How to reach me **mostafizurrahmanripon03@gmail.com**
 - 👯 Join my opensource community [beendoo](https://github.com/beendoo)
 - 💬 Ask me about system design
@@ -43,15 +43,15 @@ export default {
     tools: ["Vite", "ESLint", "Prettier", "Chrome DevTools", "Figma", "Postman"], 
     specialized: ["Frontend & Backend Architecture", "JavaScript", "TypeScript", "Next.js", "React.js"], 
   },
-  interests: ["Poetry", "Novels", "Movies", "Football", "Puzzle", "Coffee"], 
+  interests: ["Poetry", "Novels", "Cricket","Football", "Puzzle",], 
 };
 ```
 ---------------
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=foysalahmedmin&theme=dark&hide_border=false&layout=compact&card_width=325&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=foysalahmedmin&theme=dark&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=foysalahmedmin&theme=dark&hide_border=false&background=0D1117&fire=58A6FF&ring=58A6FF&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&currStreakIcon=58A6FF&border=0D1117" height="150" alt="contribution graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafizurrahman03&theme=dark&hide_border=false&layout=compact&card_width=325&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafizurrahman03&theme=dark&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mostafizurrahman03&theme=dark&hide_border=false&background=0D1117&fire=58A6FF&ring=58A6FF&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=C9D1D9&currStreakIcon=58A6FF&border=0D1117" height="150" alt="contribution graph" />
 </div>
 
 ---------------
