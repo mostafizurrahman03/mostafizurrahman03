@@ -104,7 +104,7 @@ export default {
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/reactquery.svg" height="24" alt="react query logo" />
   <img width="30" />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="24" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" height="24" alt="tailwindcss logo" />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="24" alt="bootstrap logo" />
   <img width="30" />
