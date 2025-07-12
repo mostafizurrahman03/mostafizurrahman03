@@ -18,7 +18,7 @@ I take pride in solving real-world problems with Laravel and React, and I’m co
 
 - 👨🏻‍💻 **About Me** ✨ Web Developer
 - 🔭 I’m currently working on [FIFOTech](https://fifo-tech.com/)
-- 📫 How to reach me **mostafizurrahman03@gmail.com**
+- 📫 How to reach me **mostafizurrahmanripon03@gmail.com**
 - 👯 Join my opensource community [beendoo](https://github.com/beendoo)
 - 💬 Ask me about system design
 - 🌱 I’m currently learning ✨ **AI**
@@ -27,20 +27,20 @@ I take pride in solving real-world problems with Laravel and React, and I’m co
 
 ```javascript
 export default {
-  name: "Foysal Ahmed",
+  name: "Md. Mostafizur Rahman",
   pronouns: ["he", "him"],
   contact: {
-    email: "foysalahmedmin@gmail.com",
-    phone: "+8801950161811",
-    whatsapp: "+8801950161811",
+    email: "mostafizurrahmanripon03@gmail.com",
+    phone: "+8801741285251",
+    whatsapp: "+8801741285251",
   },
   expertise: ["Web Development", "System Solution", "Marketing"], 
   skills: {
-    languages: ["JavaScript", "TypeScript", "Python"],
-    frameworks: ["Next.js", "Express.js", "Expo"], 
-    libraries: ["React.js", "React Native", "React Query", "Redux", "React Router", "Mongoose", "jsonwebtoken", "bcrypt.js", "Axios"], 
+    languages: ["PHP", "JavaScript", "MySQL"],
+    frameworks: ["Laravel", "Vue.js" "Next.js"], 
+    libraries: ["React.js", "React Native", "React Query", "Redux", "React Router", "jsonwebtoken", "bcrypt.js", "Axios"], 
     styling: ["Tailwind CSS", "Bootstrap", "SCSS", "CSS"], 
-    tools: ["Vite", "ESLint", "Prettier", "Chrome DevTools", "Figma", "Postman", "MongoDB Shell", "Android Studio"], 
+    tools: ["Vite", "ESLint", "Prettier", "Chrome DevTools", "Figma", "Postman"], 
     specialized: ["Frontend & Backend Architecture", "JavaScript", "TypeScript", "Next.js", "React.js"], 
   },
   interests: ["Poetry", "Novels", "Movies", "Football", "Puzzle", "Coffee"], 
