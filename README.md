@@ -94,8 +94,7 @@ export default {
   <img width="30" />
   
   <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="24" alt="mysql logo" />
-  <img width="30" />
+
   
   <!-- Runtime -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="nodejs logo" />
